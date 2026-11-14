@@ -1,0 +1,6 @@
+{
+  "name": "Rocky Slot",
+  "description": "Play-for-free 5-reel, 25-payline boxing slot machine featuring the R-O-C-K-Y letter bonus, 10-round Knockout Bonus, Free Games with 2x multiplier, and Red/Black Gamble feature.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
